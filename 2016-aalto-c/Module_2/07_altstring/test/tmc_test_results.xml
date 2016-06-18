@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://check.sourceforge.net/xml/check_unittest.xslt"?>
+<testsuites xmlns="http://check.sourceforge.net/ns">
+  <datetime>2016-06-18 12:44:21</datetime>
+  <suite>
+    <title>Test-07_altstring</title>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:53</fn>
+      <id>test_es_print</id>
+      <iteration>0</iteration>
+      <duration>0.000375</duration>
+      <description>test_es_print</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:72</fn>
+      <id>test_es_length</id>
+      <iteration>0</iteration>
+      <duration>0.000080</duration>
+      <description>test_es_length</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:106</fn>
+      <id>test_es_copy</id>
+      <iteration>0</iteration>
+      <duration>0.000105</duration>
+      <description>test_es_copy</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:143</fn>
+      <id>test_es_token</id>
+      <iteration>0</iteration>
+      <duration>0.000109</duration>
+      <description>test_es_token</description>
+      <message>Passed</message>
+    </test>
+  </suite>
+  <duration>0.005816</duration>
+</testsuites>

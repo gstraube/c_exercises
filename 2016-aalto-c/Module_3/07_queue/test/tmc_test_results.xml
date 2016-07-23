@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://check.sourceforge.net/xml/check_unittest.xslt"?>
+<testsuites xmlns="http://check.sourceforge.net/ns">
+  <datetime>2016-06-19 15:29:08</datetime>
+  <suite>
+    <title>Test-07_queue</title>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:99</fn>
+      <id>test_Queue_enqueue</id>
+      <iteration>0</iteration>
+      <duration>0.000088</duration>
+      <description>test_Queue_enqueue</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:130</fn>
+      <id>test_Queue_dequeue</id>
+      <iteration>0</iteration>
+      <duration>0.000083</duration>
+      <description>test_Queue_dequeue</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:178</fn>
+      <id>test_Queue_drop</id>
+      <iteration>0</iteration>
+      <duration>0.000085</duration>
+      <description>test_Queue_drop</description>
+      <message>Passed</message>
+    </test>
+  </suite>
+  <duration>0.004660</duration>
+</testsuites>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://check.sourceforge.net/xml/check_unittest.xslt"?>
+<testsuites xmlns="http://check.sourceforge.net/ns">
+  <datetime>2016-06-22 19:07:33</datetime>
+  <suite>
+    <title>Test-04_ip</title>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:57</fn>
+      <id>test_parseIp1</id>
+      <iteration>0</iteration>
+      <duration>0.000177</duration>
+      <description>test_parseIp1</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:108</fn>
+      <id>test_parseIp2</id>
+      <iteration>0</iteration>
+      <duration>0.000171</duration>
+      <description>test_parseIp2</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:161</fn>
+      <id>test_sendIp1</id>
+      <iteration>0</iteration>
+      <duration>0.000117</duration>
+      <description>test_sendIp1</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:214</fn>
+      <id>test_sendIp2</id>
+      <iteration>0</iteration>
+      <duration>0.000126</duration>
+      <description>test_sendIp2</description>
+      <message>Passed</message>
+    </test>
+  </suite>
+  <duration>0.006085</duration>
+</testsuites>

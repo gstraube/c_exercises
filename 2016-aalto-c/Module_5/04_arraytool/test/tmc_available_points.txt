@@ -1,0 +1,3 @@
+[test] [test_array_idx] M5.04.c
+[test] [test_make_array] M5.04.b
+[test] [test_check] M5.04.a

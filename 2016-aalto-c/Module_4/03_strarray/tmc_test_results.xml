@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://check.sourceforge.net/xml/check_unittest.xslt"?>
+<testsuites xmlns="http://check.sourceforge.net/ns">
+  <datetime>2016-06-21 18:58:52</datetime>
+  <suite>
+    <title>Test-03_strarray</title>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:10</fn>
+      <id>test_init_array</id>
+      <iteration>0</iteration>
+      <duration>0.030224</duration>
+      <description>test_init_array</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:47</fn>
+      <id>test_add_string</id>
+      <iteration>0</iteration>
+      <duration>0.069735</duration>
+      <description>test_add_string</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:96</fn>
+      <id>test_make_lower</id>
+      <iteration>0</iteration>
+      <duration>0.064852</duration>
+      <description>test_make_lower</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:140</fn>
+      <id>test_sort_strings</id>
+      <iteration>0</iteration>
+      <duration>0.068495</duration>
+      <description>test_sort_strings</description>
+      <message>Passed</message>
+    </test>
+  </suite>
+  <duration>1.522876</duration>
+</testsuites>

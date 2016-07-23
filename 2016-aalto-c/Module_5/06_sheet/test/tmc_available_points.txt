@@ -1,0 +1,4 @@
+[test] [test_funcs] M5.06.d
+[test] [test_eval_cell] M5.06.c
+[test] [test_set_value] M5.06.b
+[test] [test_create_sheet] M5.06.a

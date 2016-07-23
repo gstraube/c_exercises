@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://check.sourceforge.net/xml/check_unittest.xslt"?>
+<testsuites xmlns="http://check.sourceforge.net/ns">
+  <datetime>2016-07-10 14:20:51</datetime>
+  <suite>
+    <title>Test-05_myprint</title>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:66</fn>
+      <id>test_myprint</id>
+      <iteration>0</iteration>
+      <duration>-1.000000</duration>
+      <description>test_myprint</description>
+      <message>Passed</message>
+    </test>
+  </suite>
+  <duration>0.007090</duration>
+</testsuites>

@@ -1,0 +1,4 @@
+[test] [test_sort_strings] M4.03.d
+[test] [test_make_lower] M4.03.c
+[test] [test_add_string] M4.03.b
+[test] [test_init_array] M4.03.a

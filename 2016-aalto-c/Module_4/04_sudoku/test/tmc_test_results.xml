@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://check.sourceforge.net/xml/check_unittest.xslt"?>
+<testsuites xmlns="http://check.sourceforge.net/ns">
+  <datetime>2016-07-13 20:02:11</datetime>
+  <suite>
+    <title>Test-4.4</title>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:67</fn>
+      <id>test_calculate</id>
+      <iteration>0</iteration>
+      <duration>0.000079</duration>
+      <description>test_calculate</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:114</fn>
+      <id>test_set</id>
+      <iteration>0</iteration>
+      <duration>0.000075</duration>
+      <description>test_set</description>
+      <message>Passed</message>
+    </test>
+  </suite>
+  <duration>0.003501</duration>
+</testsuites>

@@ -1,0 +1,2 @@
+[test] [test_word_count] M5.02.b
+[test] [test_line_count] M5.02.a

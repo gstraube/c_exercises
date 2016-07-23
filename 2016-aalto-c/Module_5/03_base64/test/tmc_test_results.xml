@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://check.sourceforge.net/xml/check_unittest.xslt"?>
+<testsuites xmlns="http://check.sourceforge.net/ns">
+  <datetime>2016-07-23 18:58:51</datetime>
+  <suite>
+    <title>Test-03_base64</title>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:13</fn>
+      <id>test_to_base64</id>
+      <iteration>0</iteration>
+      <duration>-1.000000</duration>
+      <description>test_to_base64</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:74</fn>
+      <id>test_from_base64</id>
+      <iteration>0</iteration>
+      <duration>-1.000000</duration>
+      <description>test_from_base64</description>
+      <message>Passed</message>
+    </test>
+  </suite>
+  <duration>0.008285</duration>
+</testsuites>

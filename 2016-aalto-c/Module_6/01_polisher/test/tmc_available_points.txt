@@ -1,0 +1,3 @@
+[test] [test_indent] M6.01.c
+[test] [test_remove_comments] M6.01.b
+[test] [test_read_file] M6.01.a

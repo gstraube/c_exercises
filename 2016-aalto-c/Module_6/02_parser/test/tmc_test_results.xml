@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://check.sourceforge.net/xml/check_unittest.xslt"?>
+<testsuites xmlns="http://check.sourceforge.net/ns">
+  <datetime>2016-08-17 20:00:29</datetime>
+  <suite>
+    <title>Test-02_parser</title>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:63</fn>
+      <id>test_get_options</id>
+      <iteration>0</iteration>
+      <duration>-1.000000</duration>
+      <description>test_get_options</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:111</fn>
+      <id>test_get_optarg</id>
+      <iteration>0</iteration>
+      <duration>-1.000000</duration>
+      <description>test_get_optarg</description>
+      <message>Passed</message>
+    </test>
+  </suite>
+  <duration>0.004294</duration>
+</testsuites>

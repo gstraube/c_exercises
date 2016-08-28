@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://check.sourceforge.net/xml/check_unittest.xslt"?>
+<testsuites xmlns="http://check.sourceforge.net/ns">
+  <datetime>2016-08-18 19:17:38</datetime>
+  <suite>
+    <title>Test-01_polisher</title>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:27</fn>
+      <id>test_read_file</id>
+      <iteration>0</iteration>
+      <duration>-1.000000</duration>
+      <description>test_read_file</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:58</fn>
+      <id>test_remove_comments</id>
+      <iteration>0</iteration>
+      <duration>-1.000000</duration>
+      <description>test_remove_comments</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:98</fn>
+      <id>test_indent</id>
+      <iteration>0</iteration>
+      <duration>-1.000000</duration>
+      <description>test_indent</description>
+      <message>Passed</message>
+    </test>
+  </suite>
+  <duration>0.008052</duration>
+</testsuites>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://check.sourceforge.net/xml/check_unittest.xslt"?>
+<testsuites xmlns="http://check.sourceforge.net/ns">
+  <datetime>2016-08-28 18:55:11</datetime>
+  <suite>
+    <title>Test-08_dungeon</title>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:59</fn>
+      <id>test_isBlocked</id>
+      <iteration>0</iteration>
+      <duration>-1.000000</duration>
+      <description>test_isBlocked</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:109</fn>
+      <id>test_createMonsters</id>
+      <iteration>0</iteration>
+      <duration>-1.000000</duration>
+      <description>test_createMonsters</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:244</fn>
+      <id>test_moveTowards</id>
+      <iteration>0</iteration>
+      <duration>-1.000000</duration>
+      <description>test_moveTowards</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:314</fn>
+      <id>test_moveAway</id>
+      <iteration>0</iteration>
+      <duration>-1.000000</duration>
+      <description>test_moveAway</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>test_source.c:399</fn>
+      <id>test_monsterAction</id>
+      <iteration>0</iteration>
+      <duration>-1.000000</duration>
+      <description>test_monsterAction</description>
+      <message>Passed</message>
+    </test>
+  </suite>
+  <duration>0.021963</duration>
+</testsuites>

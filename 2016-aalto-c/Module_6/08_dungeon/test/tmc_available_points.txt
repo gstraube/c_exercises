@@ -1,0 +1,5 @@
+[test] [test_monsterAction] M6.08.e
+[test] [test_moveAway] M6.08.d
+[test] [test_moveTowards] M6.08.c
+[test] [test_createMonsters] M6.08.b
+[test] [test_isBlocked] M6.08.a

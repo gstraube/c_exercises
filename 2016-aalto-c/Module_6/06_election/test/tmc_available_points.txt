@@ -1,0 +1,2 @@
+[test] [test_results] M6.06.b
+[test] [test_read_votes] M6.06.a
